@@ -1,0 +1,6 @@
+1. Create new virtual env.
+2. Install requirements from requirements file.
+3. Create two json files, one for scraped external resources and the other for word count.
+4. Copy the url for the external resources and paste over the url on line 15 in scraper.py where it says 'scraped.json'
+5. Copy the url for the word count and paste over the url on line 16 in scraper.py where it says 'privacy_count.json'
+6. Run the scraper.py file.
